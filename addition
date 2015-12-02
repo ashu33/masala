@@ -3,4 +3,5 @@ void add
 int a=2,b=8,c;
 c=a+b;
 cout<<"teh addition of the two no."<<a<<"+"<<b<<"is=="<<c<<endl;
+cout<<"this was an example of two no."<<endl;
 }

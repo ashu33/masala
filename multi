@@ -1,0 +1,5 @@
+void multi()
+int a=2,b=4,c;
+c=a*b;
+cout<<"the multiplication of two no. i.e:"<<a<<b<<"is"<<c<<endl;
+}

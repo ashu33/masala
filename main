@@ -1,0 +1,16 @@
+#include<conio.h>
+#include<stdio.h>
+#include<iostream.h>
+void add();
+void sub();
+void mul();
+void div();
+void main()
+{
+clrscr();
+void add();
+void sub();
+void mul();
+void  div();
+getch();
+}

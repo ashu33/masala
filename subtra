@@ -1,0 +1,6 @@
+void sub()
+{
+int a=30,b=40,c;
+c=b-a;
+cout<<"the diffrence between the two no.<<a  <<b<<" is=="<<c<<endl;
+}
